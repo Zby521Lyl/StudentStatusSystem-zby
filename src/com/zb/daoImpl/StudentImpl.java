@@ -14,4 +14,7 @@ public class StudentImpl implements Student {
     public void GMlTEST(){
         int a=1;
     }
+
+    //张博宇   test
+    public void zbyTest(){}
 }

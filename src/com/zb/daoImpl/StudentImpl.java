@@ -16,5 +16,7 @@ public class StudentImpl implements Student {
     }
 
     //张博宇   test
-    public void zbyTest(){}
+    public void zbyTest(){
+        int a=1;
+    }
 }
